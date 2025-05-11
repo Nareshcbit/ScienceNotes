@@ -213,7 +213,7 @@ This study guide covers three Florida Next Generation Sunshine State Standards (
    b) Exoskeleton is external
    c) Exoskeleton helps breathing
    d) Exoskeleton is soft
-   **Answer**: b) Exoskeleton is external
+   : b) Exoskeleton is external
 
 3. Which animal is a mammal?
    a) Snake (scales, eggs)
