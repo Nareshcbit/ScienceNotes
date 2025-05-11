@@ -135,35 +135,40 @@ This study guide covers three Florida Next Generation Sunshine State Standards (
    b) Pump blood
    c) Filter waste
    d) Control thoughts
-   **Answer**: b) Pump blood
+   **Answer**
+: b) Pump blood
 
 2. Which organ takes in oxygen and releases carbon dioxide?
    a) Stomach
    b) Lungs
    c) Liver
    d) Kidneys
-   **Answer**: b) Lungs
+   **Answer**
+: b) Lungs
 
 3. The small intestine is primarily responsible for:
    a) Absorbing water
    b) Absorbing nutrients
    c) Storing urine
    d) Protecting germs
-   **Answer**: b) Absorbing nutrients
+   **Answer**
+: b) Absorbing nutrients
 
 4. Which organ is the body’s control center?
    a) Heart
    b) Brain
    c) Pancreas
    d) Bladder
-   **Answer**: b) Brain
+   **Answer**
+: b) Brain
 
 5. What is the general function of muscles?
    a) Filter blood
    b) Help movement
    c) Store energy
    d) Detect smells
-   **Answer**: b) Help movement
+   **Answer**
+: b) Help movement
 
 #### Short-Answer
 6. Describe one function of the skin and why it’s important.
@@ -206,7 +211,8 @@ This study guide covers three Florida Next Generation Sunshine State Standards (
    b) Stem
    c) Flower
    d) Root
-   **Answer**: b) Stem
+   **Answer**
+: b) Stem
 
 2. How is an insect’s exoskeleton different from a human’s skeleton?
    a) Exoskeleton is inside
@@ -220,21 +226,24 @@ This study guide covers three Florida Next Generation Sunshine State Standards (
    b) Dolphin (live birth)
    c) Frog (moist skin, eggs)
    d) Sparrow (feathers, eggs)
-   **Answer**: b) Dolphin (live birth)
+   **Answer**
+: b) Dolphin (live birth)
 
 4. Which plant structure is like testes/ovaries?
    a) Leaf
    b) Root
    c) Flower
    d) Stem
-   **Answer**: c) Flower
+   **Answer**
+: c) Flower
 
 5. Which plants reproduce with spores?
    a) Flowering plants
    b) Pine trees
    c) Ferns
    d) Apple trees
-   **Answer**: c) Ferns
+   **Answer**
+: c) Ferns
 
 #### Short-Answer
 6. Compare animal skin to plant covering.
@@ -277,35 +286,40 @@ This study guide covers three Florida Next Generation Sunshine State Standards (
    b) Larva
    c) Pupa
    d) Adult
-   **Answer**: c) Pupa
+   **Answer**
+: c) Pupa
 
 2. How is a grasshopper’s life cycle different from a butterfly’s?
    a) Grasshopper has pupa
    b) Grasshopper has incomplete metamorphosis
    c) Grasshopper doesn’t lay eggs
    d) Grasshopper has no adult
-   **Answer**: b) Grasshopper has incomplete metamorphosis
+   **Answer**
+: b) Grasshopper has incomplete metamorphosis
 
 3. What do flowering plants like sea grapes use to produce seeds?
    a) Cones
    b) Flowers
    c) Spores
    d) Roots
-   **Answer**: b) Flowers
+   **Answer**
+: b) Flowers
 
 4. What is the stage after a sea turtle’s egg?
    a) Adult
    b) Juvenile
    c) Embryo
    d) Pupa
-   **Answer**: c) Embryo
+   **Answer**
+: c) Embryo
 
 5. Which Florida animal has incomplete metamorphosis?
    a) Monarch butterfly
    b) Lubber grasshopper
    c) Ladybug
    d) Mosquito
-   **Answer**: b) Lubber grasshopper
+   **Answer**
+: b) Lubber grasshopper
 
 #### Short-Answer
 6. Compare flowering and nonflowering plant life cycles.
