@@ -131,39 +131,39 @@ This study guide covers three Florida Next Generation Sunshine State Standards (
 ### SC.5.L.14.1 - Human Organs
 #### Multiple-Choice
 1. What is the main function of the heart?
-   a) Digest food
-   b) Pump blood
-   c) Filter waste
-   d) Control thoughts
-   <br />**Answer** : b) Pump blood
+   <br />a) Digest food
+   <br />b) Pump blood
+   <br />c) Filter waste
+   <br />d) Control thoughts
+   <br />**Answer** : <br />b) Pump blood
 
 2. Which organ takes in oxygen and releases carbon dioxide?
-   a) Stomach
-   b) Lungs
-   c) Liver
-   d) Kidneys
-   <br />**Answer** : b) Lungs
+   <br />a) Stomach
+   <br />b) Lungs
+   <br />c) Liver
+   <br />d) Kidneys
+   <br />**Answer** : <br />b) Lungs
 
 3. The small intestine is primarily responsible for:
-   a) Absorbing water
-   b) Absorbing nutrients
-   c) Storing urine
-   d) Protecting germs
-   <br />**Answer** : b) Absorbing nutrients
+   <br />a) Absorbing water
+   <br />b) Absorbing nutrients
+   <br />c) Storing urine
+   <br />d) Protecting germs
+   <br />**Answer** : <br />b) Absorbing nutrients
 
 4. Which organ is the body’s control center?
-   a) Heart
-   b) Brain
-   c) Pancreas
-   d) Bladder
-   <br />**Answer** : b) Brain
+   <br />a) Heart
+   <br />b) Brain
+   <br />c) Pancreas
+   <br />d) Bladder
+   <br />**Answer** : <br />b) Brain
 
 5. What is the general function of muscles?
-   a) Filter blood
-   b) Help movement
-   c) Store energy
-   d) Detect smells
-   <br />**Answer** : b) Help movement
+   <br />a) Filter blood
+   <br />b) Help movement
+   <br />c) Store energy
+   <br />d) Detect smells
+   <br />**Answer** : <br />b) Help movement
 
 #### Short-Answer
 6. Describe one function of the skin and why it’s important.
@@ -202,39 +202,39 @@ This study guide covers three Florida Next Generation Sunshine State Standards (
 ### SC.5.L.14.2 - Comparing Structures, Classifying Organisms
 #### Multiple-Choice
 1. Which plant structure is like an animal’s skeleton for support?
-   a) Leaf
-   b) Stem
-   c) Flower
-   d) Root
-   <br />**Answer** : b) Stem
+   <br />a) Leaf
+   <br />b) Stem
+   <br />c) Flower
+   <br />d) Root
+   <br />**Answer** : <br />b) Stem
 
 2. How is an insect’s exoskeleton different from a human’s skeleton?
-   a) Exoskeleton is inside
-   b) Exoskeleton is external
-   c) Exoskeleton helps breathing
-   d) Exoskeleton is soft
-   <br />**Answer** : b) Exoskeleton is external
+   <br />a) Exoskeleton is inside
+   <br />b) Exoskeleton is external
+   <br />c) Exoskeleton helps breathing
+   <br />d) Exoskeleton is soft
+   <br />**Answer** : <br />b) Exoskeleton is external
 
 3. Which animal is a mammal?
-   a) Snake (scales, eggs)
-   b) Dolphin (live birth)
-   c) Frog (moist skin, eggs)
-   d) Sparrow (feathers, eggs)
-   <br />**Answer** : b) Dolphin (live birth)
+   <br />a) Snake (scales, eggs)
+   <br />b) Dolphin (live birth)
+   <br />c) Frog (moist skin, eggs)
+   <br />d) Sparrow (feathers, eggs)
+   <br />**Answer** : <br />b) Dolphin (live birth)
 
 4. Which plant structure is like testes/ovaries?
-   a) Leaf
-   b) Root
-   c) Flower
-   d) Stem
-   <br />**Answer** : c) Flower
+   <br />a) Leaf
+   <br />b) Root
+   <br />c) Flower
+   <br />d) Stem
+   <br />**Answer** : <br />c) Flower
 
 5. Which plants reproduce with spores?
-   a) Flowering plants
-   b) Pine trees
-   c) Ferns
-   d) Apple trees
-   <br />**Answer** : c) Ferns
+   <br />a) Flowering plants
+   <br />b) Pine trees
+   <br />c) Ferns
+   <br />d) Apple trees
+   <br />**Answer** : <br />c) Ferns
 
 #### Short-Answer
 6. Compare animal skin to plant covering.
@@ -250,7 +250,7 @@ This study guide covers three Florida Next Generation Sunshine State Standards (
    <br />**Sample Answer**: Flowering plants use flowers (e.g., sunflowers); nonflowering use cones (pines) or spores (ferns).
 
 10. Why is a crab an arthropod and invertebrate?
-    <br />**Sample Answer**: It has an exoskeleton and jointed legs (arthropod) but no backbone (invertebrate).
+    <br />**Sample Answer**: It has an exoskeleton and jointed legs (arthropo<br />d) but no backbone (invertebrate).
 
 #### Critical-Thinking
 11. Are flowers and hearts similar in function? Suggest a better comparison.
@@ -263,7 +263,7 @@ This study guide covers three Florida Next Generation Sunshine State Standards (
     <br />**Sample Answer**: Exoskeletons protect insects but require molting, leaving them vulnerable; human skeletons grow with the body.
 
 14. Classify a penguin and jellyfish, with one trait and behavior each.
-    <br />**Sample Answer**: Penguin (bird): feathers, lays eggs. Jellyfish (invertebrate): soft body, floats.
+    <br />**Sample Answer**: Penguin (bir<br />d): feathers, lays eggs. Jellyfish (invertebrate): soft body, floats.
 
 15. How do pine trees and ferns differ in reproduction?
     <br />**Sample Answer**: Pines use cones for seeds; ferns use spores. This classifies pines as seed-producers, ferns as spore-producers.
@@ -273,39 +273,39 @@ This study guide covers three Florida Next Generation Sunshine State Standards (
 ### SC.4.L.16.4 - Life Cycles of Florida Plants and Animals
 #### Multiple-Choice
 1. Which butterfly stage involves a chrysalis?
-   a) Egg
-   b) Larva
-   c) Pupa
-   d) Adult
-   <br />**Answer** : c) Pupa
+   <br />a) Egg
+   <br />b) Larva
+   <br />c) Pupa
+   <br />d) Adult
+   <br />**Answer** : <br />c) Pupa
 
 2. How is a grasshopper’s life cycle different from a butterfly’s?
-   a) Grasshopper has pupa
-   b) Grasshopper has incomplete metamorphosis
-   c) Grasshopper doesn’t lay eggs
-   d) Grasshopper has no adult
-   <br />**Answer** : b) Grasshopper has incomplete metamorphosis
+   <br />a) Grasshopper has pupa
+   <br />b) Grasshopper has incomplete metamorphosis
+   <br />c) Grasshopper doesn’t lay eggs
+   <br />d) Grasshopper has no adult
+   <br />**Answer** : <br />b) Grasshopper has incomplete metamorphosis
 
 3. What do flowering plants like sea grapes use to produce seeds?
-   a) Cones
-   b) Flowers
-   c) Spores
-   d) Roots
-   <br />**Answer** : b) Flowers
+   <br />a) Cones
+   <br />b) Flowers
+   <br />c) Spores
+   <br />d) Roots
+   <br />**Answer** : <br />b) Flowers
 
 4. What is the stage after a sea turtle’s egg?
-   a) Adult
-   b) Juvenile
-   c) Embryo
-   d) Pupa
-   <br />**Answer** : c) Embryo
+   <br />a) Adult
+   <br />b) Juvenile
+   <br />c) Embryo
+   <br />d) Pupa
+   <br />**Answer** : <br />c) Embryo
 
 5. Which Florida animal has incomplete metamorphosis?
-   a) Monarch butterfly
-   b) Lubber grasshopper
-   c) Ladybug
-   d) Mosquito
-   <br />**Answer** : b) Lubber grasshopper
+   <br />a) Monarch butterfly
+   <br />b) Lubber grasshopper
+   <br />c) Ladybug
+   <br />d) Mosquito
+   <br />**Answer** : <br />b) Lubber grasshopper
 
 #### Short-Answer
 6. Compare flowering and nonflowering plant life cycles.
@@ -349,7 +349,7 @@ This study guide covers three Florida Next Generation Sunshine State Standards (
 - **Use Mnemonics**: E.g., “Skin, Brain, Heart, Lungs” as “Super Brave Heroes Learn.”
 - **Focus on Florida**: Use examples like monarchs, mangroves, alligators.
 - **Practice Diagrams**: Visualize organs, life cycles, or animal traits.
-- **Compare/Contrast**: Practice finding similarities (e.g., all life cycles start with egg/seed) and differences (e.g., flowers vs. cones).
+- **Compare/Contrast**: Practice finding similarities (e.g., all life cycles start with egg/see<br />d) and differences (e.g., flowers vs. cones).
 - **Review Questions**: Use these questions to test recall and reasoning.
 
 ---
