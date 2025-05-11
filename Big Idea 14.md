@@ -135,7 +135,7 @@ This study guide covers three Florida Next Generation Sunshine State Standards (
    b) Pump blood
    c) Filter waste
    d) Control thoughts
-   **Answer**
+   **Answer** <br />
 : b) Pump blood
 
 2. Which organ takes in oxygen and releases carbon dioxide?
@@ -143,7 +143,7 @@ This study guide covers three Florida Next Generation Sunshine State Standards (
    b) Lungs
    c) Liver
    d) Kidneys
-   **Answer**
+   **Answer** <br />
 : b) Lungs
 
 3. The small intestine is primarily responsible for:
@@ -151,7 +151,7 @@ This study guide covers three Florida Next Generation Sunshine State Standards (
    b) Absorbing nutrients
    c) Storing urine
    d) Protecting germs
-   **Answer**
+   **Answer** <br />
 : b) Absorbing nutrients
 
 4. Which organ is the body’s control center?
@@ -159,7 +159,7 @@ This study guide covers three Florida Next Generation Sunshine State Standards (
    b) Brain
    c) Pancreas
    d) Bladder
-   **Answer**
+   **Answer** <br />
 : b) Brain
 
 5. What is the general function of muscles?
@@ -167,7 +167,7 @@ This study guide covers three Florida Next Generation Sunshine State Standards (
    b) Help movement
    c) Store energy
    d) Detect smells
-   **Answer**
+   **Answer** <br />
 : b) Help movement
 
 #### Short-Answer
@@ -211,7 +211,7 @@ This study guide covers three Florida Next Generation Sunshine State Standards (
    b) Stem
    c) Flower
    d) Root
-   **Answer**
+   **Answer** <br />
 : b) Stem
 
 2. How is an insect’s exoskeleton different from a human’s skeleton?
@@ -226,7 +226,7 @@ This study guide covers three Florida Next Generation Sunshine State Standards (
    b) Dolphin (live birth)
    c) Frog (moist skin, eggs)
    d) Sparrow (feathers, eggs)
-   **Answer**
+   **Answer** <br />
 : b) Dolphin (live birth)
 
 4. Which plant structure is like testes/ovaries?
@@ -234,7 +234,7 @@ This study guide covers three Florida Next Generation Sunshine State Standards (
    b) Root
    c) Flower
    d) Stem
-   **Answer**
+   **Answer** <br />
 : c) Flower
 
 5. Which plants reproduce with spores?
@@ -242,7 +242,7 @@ This study guide covers three Florida Next Generation Sunshine State Standards (
    b) Pine trees
    c) Ferns
    d) Apple trees
-   **Answer**
+   **Answer** <br />
 : c) Ferns
 
 #### Short-Answer
@@ -286,7 +286,7 @@ This study guide covers three Florida Next Generation Sunshine State Standards (
    b) Larva
    c) Pupa
    d) Adult
-   **Answer**
+   **Answer** <br />
 : c) Pupa
 
 2. How is a grasshopper’s life cycle different from a butterfly’s?
@@ -294,7 +294,7 @@ This study guide covers three Florida Next Generation Sunshine State Standards (
    b) Grasshopper has incomplete metamorphosis
    c) Grasshopper doesn’t lay eggs
    d) Grasshopper has no adult
-   **Answer**
+   **Answer** <br />
 : b) Grasshopper has incomplete metamorphosis
 
 3. What do flowering plants like sea grapes use to produce seeds?
@@ -302,7 +302,7 @@ This study guide covers three Florida Next Generation Sunshine State Standards (
    b) Flowers
    c) Spores
    d) Roots
-   **Answer**
+   **Answer** <br />
 : b) Flowers
 
 4. What is the stage after a sea turtle’s egg?
@@ -310,7 +310,7 @@ This study guide covers three Florida Next Generation Sunshine State Standards (
    b) Juvenile
    c) Embryo
    d) Pupa
-   **Answer**
+   **Answer** <br />
 : c) Embryo
 
 5. Which Florida animal has incomplete metamorphosis?
@@ -318,7 +318,7 @@ This study guide covers three Florida Next Generation Sunshine State Standards (
    b) Lubber grasshopper
    c) Ladybug
    d) Mosquito
-   **Answer**
+   **Answer** <br />
 : b) Lubber grasshopper
 
 #### Short-Answer
