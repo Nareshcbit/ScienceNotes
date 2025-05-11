@@ -135,67 +135,67 @@ This study guide covers three Florida Next Generation Sunshine State Standards (
    b) Pump blood
    c) Filter waste
    d) Control thoughts
-   **Answer**: b) Pump blood
+   <br />**Answer** : b) Pump blood
 
 2. Which organ takes in oxygen and releases carbon dioxide?
    a) Stomach
    b) Lungs
    c) Liver
    d) Kidneys
-   **Answer**: b) Lungs
+   <br />**Answer** : b) Lungs
 
 3. The small intestine is primarily responsible for:
    a) Absorbing water
    b) Absorbing nutrients
    c) Storing urine
    d) Protecting germs
-   **Answer**: b) Absorbing nutrients
+   <br />**Answer** : b) Absorbing nutrients
 
 4. Which organ is the body’s control center?
    a) Heart
    b) Brain
    c) Pancreas
    d) Bladder
-   **Answer**: b) Brain
+   <br />**Answer** : b) Brain
 
 5. What is the general function of muscles?
    a) Filter blood
    b) Help movement
    c) Store energy
    d) Detect smells
-   **Answer**: b) Help movement
+   <br />**Answer** : b) Help movement
 
 #### Short-Answer
 6. Describe one function of the skin and why it’s important.
-   **Sample Answer**: Skin protects against germs, which is important to prevent infections.
+   <br />**Sample Answer**: Skin protects against germs, which is important to prevent infections.
 
 7. How does the large intestine differ from the small intestine?
-   **Sample Answer**: The large intestine absorbs water and forms waste, while the small intestine absorbs nutrients.
+   <br />**Sample Answer**: The large intestine absorbs water and forms waste, while the small intestine absorbs nutrients.
 
 8. How do kidneys and bladder work together?
-   **Sample Answer**: Kidneys filter blood to make urine, which the bladder stores until it leaves the body.
+   <br />**Sample Answer**: Kidneys filter blood to make urine, which the bladder stores until it leaves the body.
 
 9. What is one job of the liver?
-   **Sample Answer**: The liver cleans blood by removing toxins, keeping the body healthy.
+   <br />**Sample Answer**: The liver cleans blood by removing toxins, keeping the body healthy.
 
 10. Name one sensory organ and its function.
-    **Sample Answer**: Eyes help see by detecting light.
+    <br />**Sample Answer**: Eyes help see by detecting light.
 
 #### Critical-Thinking
 11. Explain how the heart and lungs work together.
-    **Sample Answer**: Lungs take in oxygen and put it in the blood; the heart pumps this blood to the body, then back to the lungs to remove carbon dioxide.
+    <br />**Sample Answer**: Lungs take in oxygen and put it in the blood; the heart pumps this blood to the body, then back to the lungs to remove carbon dioxide.
 
 12. Why is the skeleton important for movement and protection?
-    **Sample Answer**: The skeleton works with muscles for movement (e.g., legs for walking) and protects organs (e.g., skull protects brain).
+    <br />**Sample Answer**: The skeleton works with muscles for movement (e.g., legs for walking) and protects organs (e.g., skull protects brain).
 
 13. How might a pancreas failure affect the body?
-    **Sample Answer**: Without insulin from the pancreas, the body can’t use sugar for energy, causing tiredness or illness.
+    <br />**Sample Answer**: Without insulin from the pancreas, the body can’t use sugar for energy, causing tiredness or illness.
 
 14. How do two sensory organs help you interact with the world?
-    **Sample Answer**: Eyes help see objects; ears help hear sounds, aiding communication and safety.
+    <br />**Sample Answer**: Eyes help see objects; ears help hear sounds, aiding communication and safety.
 
 15. Why is the stomach’s role important before food reaches the intestines?
-    **Sample Answer**: The stomach breaks down food so the small intestine can absorb nutrients; without this, the body wouldn’t get energy.
+    <br />**Sample Answer**: The stomach breaks down food so the small intestine can absorb nutrients; without this, the body wouldn’t get energy.
 
 ---
 
@@ -206,67 +206,67 @@ This study guide covers three Florida Next Generation Sunshine State Standards (
    b) Stem
    c) Flower
    d) Root
-   **Answer**: b) Stem
+   <br />**Answer** : b) Stem
 
 2. How is an insect’s exoskeleton different from a human’s skeleton?
    a) Exoskeleton is inside
    b) Exoskeleton is external
    c) Exoskeleton helps breathing
    d) Exoskeleton is soft
-   : b) Exoskeleton is external
+   <br />**Answer** : b) Exoskeleton is external
 
 3. Which animal is a mammal?
    a) Snake (scales, eggs)
    b) Dolphin (live birth)
    c) Frog (moist skin, eggs)
    d) Sparrow (feathers, eggs)
-   **Answer**: b) Dolphin (live birth)
+   <br />**Answer** : b) Dolphin (live birth)
 
 4. Which plant structure is like testes/ovaries?
    a) Leaf
    b) Root
    c) Flower
    d) Stem
-   **Answer**: c) Flower
+   <br />**Answer** : c) Flower
 
 5. Which plants reproduce with spores?
    a) Flowering plants
    b) Pine trees
    c) Ferns
    d) Apple trees
-   **Answer**: c) Ferns
+   <br />**Answer** : c) Ferns
 
 #### Short-Answer
 6. Compare animal skin to plant covering.
-   **Sample Answer**: Both protect; skin keeps out germs, plant covering prevents water loss.
+   <br />**Sample Answer**: Both protect; skin keeps out germs, plant covering prevents water loss.
 
 7. How is a stem similar to and different from a skeleton?
-   **Sample Answer**: Both support; skeletons move with muscles, stems are rigid.
+   <br />**Sample Answer**: Both support; skeletons move with muscles, stems are rigid.
 
 8. Describe one reptile characteristic and behavior.
-   **Sample Answer**: Reptiles have scales; they bask in the sun to warm up.
+   <br />**Sample Answer**: Reptiles have scales; they bask in the sun to warm up.
 
 9. How do flowering and nonflowering plants differ?
-   **Sample Answer**: Flowering plants use flowers (e.g., sunflowers); nonflowering use cones (pines) or spores (ferns).
+   <br />**Sample Answer**: Flowering plants use flowers (e.g., sunflowers); nonflowering use cones (pines) or spores (ferns).
 
 10. Why is a crab an arthropod and invertebrate?
-    **Sample Answer**: It has an exoskeleton and jointed legs (arthropod) but no backbone (invertebrate).
+    <br />**Sample Answer**: It has an exoskeleton and jointed legs (arthropod) but no backbone (invertebrate).
 
 #### Critical-Thinking
 11. Are flowers and hearts similar in function? Suggest a better comparison.
-    **Sample Answer**: No, flowers reproduce, hearts pump blood. Testes/ovaries are better, as they produce sperm/eggs.
+    <br />**Sample Answer**: No, flowers reproduce, hearts pump blood. Testes/ovaries are better, as they produce sperm/eggs.
 
 12. Compare tree bark to bear fur.
-    **Sample Answer**: Both protect; bark prevents water loss, fur regulates temperature.
+    <br />**Sample Answer**: Both protect; bark prevents water loss, fur regulates temperature.
 
 13. Why is an exoskeleton advantageous for insects but limiting vs. human skeletons?
-    **Sample Answer**: Exoskeletons protect insects but require molting, leaving them vulnerable; human skeletons grow with the body.
+    <br />**Sample Answer**: Exoskeletons protect insects but require molting, leaving them vulnerable; human skeletons grow with the body.
 
 14. Classify a penguin and jellyfish, with one trait and behavior each.
-    **Sample Answer**: Penguin (bird): feathers, lays eggs. Jellyfish (invertebrate): soft body, floats.
+    <br />**Sample Answer**: Penguin (bird): feathers, lays eggs. Jellyfish (invertebrate): soft body, floats.
 
 15. How do pine trees and ferns differ in reproduction?
-    **Sample Answer**: Pines use cones for seeds; ferns use spores. This classifies pines as seed-producers, ferns as spore-producers.
+    <br />**Sample Answer**: Pines use cones for seeds; ferns use spores. This classifies pines as seed-producers, ferns as spore-producers.
 
 ---
 
@@ -277,67 +277,67 @@ This study guide covers three Florida Next Generation Sunshine State Standards (
    b) Larva
    c) Pupa
    d) Adult
-   **Answer**: c) Pupa
+   <br />**Answer** : c) Pupa
 
 2. How is a grasshopper’s life cycle different from a butterfly’s?
    a) Grasshopper has pupa
    b) Grasshopper has incomplete metamorphosis
    c) Grasshopper doesn’t lay eggs
    d) Grasshopper has no adult
-   **Answer**: b) Grasshopper has incomplete metamorphosis
+   <br />**Answer** : b) Grasshopper has incomplete metamorphosis
 
 3. What do flowering plants like sea grapes use to produce seeds?
    a) Cones
    b) Flowers
    c) Spores
    d) Roots
-   **Answer**: b) Flowers
+   <br />**Answer** : b) Flowers
 
 4. What is the stage after a sea turtle’s egg?
    a) Adult
    b) Juvenile
    c) Embryo
    d) Pupa
-   **Answer**: c) Embryo
+   <br />**Answer** : c) Embryo
 
 5. Which Florida animal has incomplete metamorphosis?
    a) Monarch butterfly
    b) Lubber grasshopper
    c) Ladybug
    d) Mosquito
-   **Answer**: b) Lubber grasshopper
+   <br />**Answer** : b) Lubber grasshopper
 
 #### Short-Answer
 6. Compare flowering and nonflowering plant life cycles.
-   **Sample Answer**: Both start with seeds; flowering plants use flowers, nonflowering use cones.
+   <br />**Sample Answer**: Both start with seeds; flowering plants use flowers, nonflowering use cones.
 
 7. How do butterfly larva and dragonfly nymph differ?
-   **Sample Answer**: Larva (caterpillar) looks unlike adult, eats a lot; nymph resembles adult, molts gradually.
+   <br />**Sample Answer**: Larva (caterpillar) looks unlike adult, eats a lot; nymph resembles adult, molts gradually.
 
 8. What is the juvenile stage’s role in an alligator’s life cycle?
-   **Sample Answer**: Juveniles grow and learn to hunt, unlike adults who reproduce.
+   <br />**Sample Answer**: Juveniles grow and learn to hunt, unlike adults who reproduce.
 
 9. Describe the pupa stage of a ladybug.
-   **Sample Answer**: The pupa is a resting stage where the larva transforms into an adult inside a protective case.
+   <br />**Sample Answer**: The pupa is a resting stage where the larva transforms into an adult inside a protective case.
 
 10. How are seedling stages similar in plants?
-    **Sample Answer**: Both develop roots, stems, and leaves, starting photosynthesis.
+    <br />**Sample Answer**: Both develop roots, stems, and leaves, starting photosynthesis.
 
 #### Critical-Thinking
 11. Compare mosquito and osprey life cycles.
-    **Sample Answer**: Both start with eggs; mosquitoes undergo complete metamorphosis (larva in water), ospreys have juveniles resembling adults. Mosquitoes need water, ospreys nest diversely.
+    <br />**Sample Answer**: Both start with eggs; mosquitoes undergo complete metamorphosis (larva in water), ospreys have juveniles resembling adults. Mosquitoes need water, ospreys nest diversely.
 
 12. Why do mangroves have fruit but pines don’t?
-    **Sample Answer**: Mangroves use fruit to disperse seeds via water/animals; pines use cones for wind dispersal, affecting their spread.
+    <br />**Sample Answer**: Mangroves use fruit to disperse seeds via water/animals; pines use cones for wind dispersal, affecting their spread.
 
 13. Are frog and butterfly life cycles the same?
-    **Sample Answer**: No, butterflies have larva-pupa (complete metamorphosis); frogs have tadpole (gradual change). Frogs need water for tadpoles.
+    <br />**Sample Answer**: No, butterflies have larva-pupa (complete metamorphosis); frogs have tadpole (gradual change). Frogs need water for tadpoles.
 
 14. Compare ladybug pupa to frog juvenile.
-    **Sample Answer**: Both grow toward adulthood; pupa is inactive, tadpole is active in water.
+    <br />**Sample Answer**: Both grow toward adulthood; pupa is inactive, tadpole is active in water.
 
 15. Why is a dragonfly’s life cycle suited to Florida wetlands?
-    **Sample Answer**: Dragonfly nymphs live in wetland water; sea turtles’ juveniles live in oceans, less tied to wetlands.
+    <br />**Sample Answer**: Dragonfly nymphs live in wetland water; sea turtles’ juveniles live in oceans, less tied to wetlands.
 
 ---
 
