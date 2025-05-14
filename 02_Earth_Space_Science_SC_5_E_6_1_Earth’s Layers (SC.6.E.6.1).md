@@ -1,50 +1,86 @@
 # Notes: Earth’s Layers (SC.6.E.6.1)
 
 ## Overview
-This standard focuses on recognizing that Earth is made of layers with different compositions and properties: the crust, mantle, outer core, and inner core. Each layer has unique characteristics, such as being solid or liquid, rocky or metallic. For 5th graders, the emphasis is on understanding these layers as parts of Earth’s structure, using simple terms and relatable examples, without requiring detailed geological processes or quantitative data. The content is presented in a Florida context to make it engaging, such as connecting to the state’s limestone crust or sandy beaches.
+This standard helps you understand that Earth is made of layers, like a big ball with different parts: the crust, mantle, outer core, and inner core. Each layer has special materials (like rocks or metal) and is either solid or liquid. For 5th graders, think of Earth as a layered fruit, with a thin skin (crust) and deeper parts inside. We’ll use pictures to make it clear and connect to Florida, like the sandy beaches or limestone rocks you see around you!
+
+**Image 1: Cross-Section of Earth’s Layers**  
+![Cross-Section of Earth’s Layers](https://upload.wikimedia.org/wikipedia/commons/8/8a/Earth-cutaway-schematic-english.svg)  
+*Description*: This picture shows Earth cut in half, like slicing an apple. You see four layers: the thin crust (brown), thick mantle (red/orange), liquid outer core (yellow), and solid inner core (white). Labels point to each layer, making it easy to see how they fit together.  
+*Source*: Wikimedia Commons (Public Domain, USGS).  
+*Why It Helps*: Shows all layers at once, so you can picture Earth’s structure.
 
 ## Part 1: Earth’s Layered Structure
-- **Earth’s Layers**: Earth is like a giant ball with four main layers, each with different materials and properties.
-- **Why Layers Matter**: The layers affect Earth’s surface, like how the crust forms land or how the core creates Earth’s magnetic field (simplified for 5th graders as “Earth’s magnet”).
-- **Florida Context**: The ground in Florida (part of the crust) is often made of limestone or sand, which we can see in beaches or quarries.
+- **Earth’s Layers**: Earth has four main layers, each doing something special, like holding us up (crust) or making a magnetic field (core).
+- **Why Layers Matter**: The crust gives us land to live on, and the core helps compasses work, like for sailors in Florida’s oceans.
+- **Florida Context**: The ground you walk on in Florida is the crust, often made of limestone rocks or sand seen on beaches.
 
 ## Part 2: The Four Layers
+
 1. **Crust**:
-   - **Description**: The outermost, thin, solid layer we live on, made of rocks like granite and basalt.
-   - **Thickness**: Very thin, like the skin of an apple (5-70 km thick, but not assessed quantitatively).
-   - **Characteristics**: Solid, includes land (continents) and ocean floors.
-   - **Florida Context**: Florida’s crust is mostly limestone, seen in sinkholes or coral reefs.
+   - **Description**: The thin, solid outer layer we live on, made of rocks like granite or limestone.
+   - **Characteristics**: Solid, includes land (like continents) and ocean floors.
+   - **Florida Context**: Florida’s crust is mostly limestone, which you can see in sinkholes or coral reefs.
    - **Example**: The sandy beaches or rocky cliffs in Florida are part of the crust.
 
+   **Image 2: Florida Limestone Crust**  
+   ![Florida Limestone Crust](https://upload.wikimedia.org/wikipedia/commons/9/9e/Limestone_formation_in_the_Florida_Keys.jpg)  
+   *Description*: This picture shows a rocky, white limestone formation on a Florida beach, with waves nearby. It looks rough and solid, showing the crust we walk on.  
+   *Source*: Wikimedia Commons (Creative Commons, CC BY-SA).  
+   *Why It Helps*: Connects the crust to something familiar in Florida, making it real.
+
 2. **Mantle**:
-   - **Description**: Thick layer beneath the crust, made of hot, semi-solid rock (magma-like).
-   - **Characteristics**: Mostly solid but flows slowly, like thick syrup, due to heat.
-   - **Florida Context**: The mantle’s heat affects Florida’s springs, where hot water rises from deep underground.
-   - **Example**: Imagine the mantle as a gooey layer under Florida’s beaches, too deep to see.
+   - **Description**: A thick layer under the crust, made of hot, semi-solid rock that flows slowly, like thick syrup.
+   - **Characteristics**: Mostly solid but moves a bit because it’s so hot, like gooey candy.
+   - **Florida Context**: The mantle’s heat helps create hot springs in Florida, where warm water comes up from deep underground.
+   - **Example**: Imagine the mantle as a hot, gooey layer under Florida’s beaches, too deep to see.
+
+   **Image 3: Mantle Representation (Magma)**  
+   ![Mantle Magma](https://upload.wikimedia.org/wikipedia/commons/4/4e/Magma_chamber.svg)  
+   *Description*: This picture shows red, flowing magma under the crust, like the mantle’s semi-solid rock. It looks like hot, glowing syrup, with the crust above it.  
+   *Source*: Wikimedia Commons (Public Domain, USGS).  
+   *Why It Helps*: Shows the mantle’s gooey nature, making it easier to understand.
 
 3. **Outer Core**:
-   - **Description**: Liquid layer of molten iron and nickel, surrounding the inner core.
-   - **Characteristics**: Liquid, very hot, creates Earth’s magnetic field (simplified as “Earth’s magnet”).
-   - **Florida Context**: The magnetic field helps compasses work for Florida sailors navigating the ocean.
-   - **Example**: Think of the outer core as a hot, liquid metal soup deep inside Earth.
+   - **Description**: A liquid layer of melted iron and nickel, deep inside Earth.
+   - **Characteristics**: Very hot, liquid, and moves to create Earth’s magnetic field (like a big magnet for compasses).
+   - **Florida Context**: The magnetic field helps Florida sailors use compasses to navigate the ocean.
+   - **Example**: Think of the outer core as a hot, liquid metal soup spinning inside Earth.
+
+   **Image 4: Earth’s Magnetic Field**  
+   ![Earth’s Magnetic Field](https://upload.wikimedia.org/wikipedia/commons/2/2c/Earth%27s_Magnetic_Field_Confusion.svg)  
+   *Description*: This picture shows Earth with glowing lines curving around it, representing the magnetic field made by the liquid outer core. A compass in the corner points north.  
+   *Source*: Wikimedia Commons (Public Domain, NASA).  
+   *Why It Helps*: Shows what the outer core does, connecting to compasses kids might see.
 
 4. **Inner Core**:
-   - **Description**: Innermost, solid ball of iron and nickel, extremely hot and dense.
-   - **Characteristics**: Solid due to immense pressure, despite high heat.
-   - **Florida Context**: The inner core is far below Florida’s surface, helping keep Earth stable.
+   - **Description**: The deepest, solid ball of iron and nickel, super hot but solid because of huge pressure.
+   - **Characteristics**: Solid, dense, and keeps Earth stable.
+   - **Florida Context**: The inner core is far below Florida, helping hold Earth together.
    - **Example**: Picture the inner core as a super-hot, solid metal ball at Earth’s center.
 
+   **Image 5: Inner Core Diagram**  
+   ![Inner Core Diagram](https://upload.wikimedia.org/wikipedia/commons/1/1f/Earth%27s_inner_core_diagram.png)  
+   *Description*: This picture zooms in on Earth’s center, showing a shiny, white ball (inner core) inside a yellow liquid (outer core). It looks like a solid metal marble.  
+   *Source*: Wikimedia Commons (Public Domain, USGS).  
+   *Why It Helps*: Makes the inner core clear as a solid, deep part, distinct from the liquid outer core.
+
 ## Part 3: How Layers Are Studied
-- **Indirect Evidence**: Scientists can’t dig to the core, so they use earthquake waves to study layers (simplified as “Earth’s shakes tell us what’s inside”).
-- **Florida Context**: Scientists study earthquake waves from distant quakes to learn about layers under Florida, even though quakes are rare here.
-- **Example**: Like guessing what’s inside a wrapped gift by shaking it, scientists “shake” Earth to learn about the mantle and core.
+- **Indirect Evidence**: Scientists can’t dig to the core, so they use earthquake waves to learn about layers (like shaking a box to guess what’s inside).
+- **Florida Context**: Even though Florida doesn’t have many earthquakes, scientists study waves from faraway quakes to understand layers under our state.
+- **Example**: It’s like tapping a melon to hear if it’s ripe—scientists “tap” Earth to find out what’s inside.
+
+**Image 6: Earthquake Waves**  
+![Earthquake Waves](https://upload.wikimedia.org/wikipedia/commons/7/7d/Seismic_waves.svg)  
+*Description*: This picture shows wavy lines moving through Earth’s layers, labeled as earthquake waves. The lines bend or stop at layers like the mantle and core, showing how scientists study them.  
+*Source*: Wikimedia Commons (Public Domain, USGS).  
+*Why It Helps*: Explains how we learn about deep layers without digging, in a simple way.
 
 ## Key Points to Remember
 - **Layers**: Crust (solid rock, thin), mantle (semi-solid rock, thick), outer core (liquid metal), inner core (solid metal).
-- **Characteristics**: Each layer differs in material (rock vs. metal) and state (solid vs. liquid).
-- **Florida Focus**: Connect to limestone crust (beaches, sinkholes), springs (mantle heat), compasses (outer core).
-- **Simplified for 5th Grade**: Think of Earth as a layered ball, like an onion, with each layer doing something special.
-- **Limits**: Conceptual understanding, no quantitative data (e.g., thickness, temperature), no complex processes (e.g., plate tectonics).
+- **Characteristics**: Each layer has different materials (rock vs. metal) and states (solid vs. liquid).
+- **Florida Focus**: Limestone crust in beaches, mantle heat in springs, outer core for compasses.
+- **Simplified for 5th Grade**: Earth is like a layered ball, with a rocky skin (crust), gooey middle (mantle), and metal center (cores).
+- **Limits**: Focus on what layers are, not numbers (e.g., thickness) or complex processes (e.g., plate tectonics).
 
 ---
 
@@ -241,31 +277,3 @@ This standard focuses on recognizing that Earth is made of layers with different
 ---
 
 # Test Preparation Tips
-- **Focus on Layers**: Learn each layer’s name, material, and state (solid/liquid).
-- **Simplified Concepts**: Think of Earth as a layered ball (crust: skin, mantle: gooey, cores: metal).
-- **Florida Examples**: Use beaches (crust), springs (mantle), compasses (outer core).
-- **Limits**: Conceptual, no numbers (e.g., thickness), no plate tectonics or complex processes.
-- **Use Visuals**: Study Earth layer diagrams, model with clay (crust) and a ball (core).
-- **Practice High-Complexity Thinking**: Compare layers (crust vs. core), explain roles (magnetic field).
-- **Hands-On Activities**: Draw Earth’s layers, touch sand (crust), use a compass (outer core).
-
----
-
-### Notes on High-Complexity Questions
-- **Abstract Reasoning**: Questions synthesize layer properties and roles (e.g., crust vs. core, magnetic field).
-- **Multi-Step Thinking**: Students connect layer characteristics to functions (e.g., mantle’s heat to springs).
-- **Analysis and Judgment**: Questions evaluate differences (e.g., solid vs. liquid, rock vs. metal).
-- **Creative Thought**: Students infer outcomes in Florida contexts (e.g., sinkholes, compasses).
-
----
-
-### Instructions for Use
-- **Markdown Viewing**: Paste into a Markdown editor (e.g., Visual Studio Code, Obsidian, Dillinger.io) to view formatted text.
-- **Convert to PDF**:
-  - Use a Markdown-to-PDF converter (e.g., Pandoc, online tools like Markdown to PDF).
-  - Alternatively, paste into a word processor (e.g., Microsoft Word, Google Docs), format, and save as a PDF.
-- **Combine with Other Standards**: If you want to merge this with the previously provided 5th-grade standards (e.g., SC.5.L.14.1, SC.5.E.5.3) or other practice test topics (e.g., cell biology, tectonics), I can provide a single Markdown file or guide you on combining them.
-- **Additional Questions**: I can generate more questions or simplify further for 5th-grade accessibility.
-- **Practice Test Context**: This standard (SC.6.E.6.1) was part of your practice test (questions 7, 14). I can provide notes/questions for other test topics (e.g., SC.6.L.14.4 for cells) if needed.
-
-Let me know if you need assistance generating the PDF, combining with other content, creating replacement 5th-grade questions, or further notes/questions for other practice test topics (e.g., cell biology, tectonics). Please clarify if this is for a specific exam or if you want a comprehensive study guide!
