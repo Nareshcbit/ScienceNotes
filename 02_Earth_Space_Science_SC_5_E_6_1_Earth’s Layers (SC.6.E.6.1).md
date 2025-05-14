@@ -190,3 +190,81 @@ This standard helps you understand that Earth is like a big ball with four layer
    - **Explanation**: The mantle (B) flows slowly, like syrup. Crust (A), outer core (C), and inner core (D) don’t flow this way.
 
 7. **A**
+   - **Explanation**: The inner core is solid iron and nickel (A). It’s not liquid rock (B), semi-solid rock (C), or solid rock (D).
+
+8. **B**
+   - **Explanation**: The crust (B) includes land and ocean floors. Mantle (A), outer core (C), and inner core (D) are deeper.
+
+9. **B**
+   - **Explanation**: Scientists use earthquake waves (B) to study layers indirectly. Sky (A), ocean (C), and trees (D) don’t reveal layers.
+
+10. **C**
+    - **Explanation**: The outer core (C) creates the magnetic field. Crust (A), mantle (B), and inner core (D) don’t directly.
+
+11. **A**
+    - **Explanation**: Crust is solid rock; outer core is liquid metal (A). Crust isn’t liquid (B), both aren’t iron (C) or semi-solid (D).
+
+12. **A**
+    - **Explanation**: Mantle is semi-solid and deep; crust is solid surface (A). Mantle isn’t surface (B), both aren’t liquid (C) or core (D).
+
+13. **A**
+    - **Explanation**: Inner core is solid due to pressure (A). Outer core isn’t hotter (B), inner core isn’t rock (C), or outer core under more pressure (D).
+
+14. **A**
+    - **Explanation**: Crust is solid rock; mantle is semi-solid rock (A). Crust isn’t liquid (B), both aren’t metal (C) or iron (D).
+
+15. **A**
+    - **Explanation**: Earthquake waves show the outer core is liquid (A) by their movement. It’s not solid (B), gaseous (C), or unreachable (D).
+
+16. **A**
+    - **Explanation**: Inner core is solid, deep; crust is surface rock (A). Inner core isn’t surface (B), both don’t form land (C) or are liquid (D).
+
+17. **A**
+    - **Explanation**: Mantle is semi-solid rock; outer core is liquid metal (A). Mantle isn’t liquid (B), same (C), or colder (D).
+
+18. **A**
+    - **Explanation**: Crust forms land for life; inner core is deep (A). Crust isn’t deep (B), both don’t support plants (C) or are liquid (D).
+
+19. **A**
+    - **Explanation**: Mantle is too deep and hot to dig (A). It’s not surface (B), liquid metal (C), or gas (D).
+
+20. **A**
+    - **Explanation**: Outer core’s liquid creates magnetic field; inner core’s solid supports it (A). Outer core isn’t solid (B), both aren’t rocky (C) or crust (D).
+
+---
+
+# Test Preparation Tips
+- **Focus on Layers**: Memorize each layer’s name, material (rock or metal), and state (solid or liquid).
+- **Simplified Concepts**: Think of Earth as a layered ball: rocky skin (crust), gooey middle (mantle), liquid metal (outer core), solid metal center (inner core).
+- **Hands-On Activities**:
+  - Draw Earth’s layers with crayons (brown crust, orange mantle, yellow outer core, red inner core).
+  - Use playdough to model layers (thin crust, thick mantle, core).
+  - Play with a compass to understand the outer core’s magnetic field.
+- **Practice High-Complexity Thinking**: Compare layers (e.g., crust vs. core), explain their roles (e.g., magnetic field).
+- **Vocabulary**: Use simple terms: “crust” (ground), “mantle” (gooey rock), “core” (metal center).
+- **Limits**: Focus on what layers are, not numbers (e.g., thickness) or complex processes (e.g., plate tectonics).
+
+---
+
+# Notes on Changes
+- **Florida Context Removed**: All references to Florida (e.g., beaches, limestone, hot springs, sailors) have been replaced with general examples (e.g., land, ground, compasses).
+- **Images Removed**: No images or image links are included, as requested. The notes rely on text descriptions to explain concepts clearly for 5th graders.
+- **Content Simplified**: Explanations use analogies (e.g., fruit, syrup, jawbreaker) to make 6th-grade content accessible without visuals or location-specific ties.
+
+---
+
+# Additional Support
+- **Practice Test Context**: SC.6.E.6.1 aligns with your practice test questions 7 (outermost layer: crust) and 14 (inner core: solid iron/nickel). I can provide notes/questions for other test topics (e.g., SC.6.L.14.4 for cells, SC.7.E.6.5 for tectonics) simplified for 5th graders, without Florida contexts or images.
+- **5th-Grade Alignment**: This 6th-grade standard is simplified to connect with 5th-grade SC.5.E.7.3 (Earth’s surface water). I can create 5th-grade-aligned questions to replace practice test questions if needed.
+- **GitHub Compatibility**: Since you’re pushing to GitHub, this Markdown file contains only text, ensuring no broken links. Save as `earth_layers.md`, push with Git (`git add earth_layers.md`, `git commit -m "Earth layers notes"`, `git push`), and view in your repository.
+- **Combined Resource**: I can merge this with 5th-grade standards (e.g., SC.5.L.14.1, SC.5.E.5.3) or other practice test topics (e.g., cell biology, chemistry) into a single Markdown file, reordered for skill progression, without Florida contexts or images.
+- **PDF Conversion**: Use Pandoc (`pandoc earth_layers.md -o earth_layers.pdf`) or paste into Google Docs/Word and save as PDF. No images to worry about.
+- **Exam Clarification**: Please confirm if this is for a specific exam (e.g., Florida SSA, district test) or general review.
+
+Please let me know:
+- If you need notes/questions for other practice test topics (e.g., cells, tectonics), without Florida contexts or images.
+- If you want 5th-grade-aligned replacement questions for the practice test.
+- If you need a combined Markdown file with all standards/topics.
+- If you need help with GitHub setup or PDF conversion.
+
+I’m here to ensure the content works seamlessly for your needs!
